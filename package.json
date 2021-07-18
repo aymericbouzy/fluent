@@ -1,0 +1,12 @@
+{
+  "name": "fluent",
+  "version": "1.0.0",
+  "description": "Create complex objects with a fluent api based on method chaining",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.5"
+  }
+}
